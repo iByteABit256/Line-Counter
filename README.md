@@ -1,6 +1,10 @@
 # Line-Counter
 Counts total lines in given directory recursively
 
+**SETUP**
+
+chmod +x totalLines.sh
+
 **USAGE**
 
 ./totalLines.sh [dir]
